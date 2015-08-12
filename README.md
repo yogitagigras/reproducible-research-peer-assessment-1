@@ -6,11 +6,9 @@
 # 1. Push your `master` branch to GitHub.
  
  2. Submit the URL to your GitHub repository for this assignment on the course web site.
-#
-#In addition to submitting the URL for your GitHub repository, you will
+In addition to submitting the URL for your GitHub repository, you will
 need to submit the 40 character SHA-1 hash (as string of numbers from0-9 and letters from a-f) that identifies the repository commit that contains the version of the files you want to submit. You can do this in GitHub by doing the following
-#
-#1. Going to your GitHub repository web page for this assignment
+1. Going to your GitHub repository web page for this assignment
 
 #2. Click on the "?? commits" link where ?? is the number of commits you have in the repository. For example, if you made a total of 10 commits to this repository, the link should say "10 commits".
 #
